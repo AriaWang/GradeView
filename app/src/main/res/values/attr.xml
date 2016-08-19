@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="titleSize" format="dimension"></attr>
+    <attr name="titleText" format="string"></attr>
+    <attr name="titleColor" format="color"/>
+    <attr name="outCircleColor" format="color"/>
+    <attr name="inCircleColor" format="color"/>
+    <attr name="lineColor" format="color"/>
+
+    <declare-styleable name="QQHealthView">
+        <attr name="titleColor"/>
+        <attr name="lineColor"/>
+    </declare-styleable>
+</resources>
